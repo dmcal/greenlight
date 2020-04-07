@@ -230,7 +230,7 @@ en:
     designs: Custom Designs
     authentication: User Authentication
   footer:
-    powered_by: Powered by %{href}.
+    powered_by: Powered by %{href} | DESIGNED BY OWNLYDIGITAL.COM | +91-89014-78600.
   forgot_password:
     subtitle: Forgot Password
     email: Email
@@ -260,7 +260,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} IS A SIMPLE FRONT-END LIVE CLASSES & TRAINING SERVER. YOU CAN CREATE YOUR OWN CLASS ROOMS TO HOST SESSIONS, AND iNVITE USERS USING A SHORT AND CONVENIENT LINK. NOW WE ARE GIVING 3 DAY FREE TRIAL OF OUR SERVICES. CONTACT US"
+    about: "%{href} is a simple front-end live classes & training server. You can create your own classrooms to host sessions, and invite users using a short and convenient link. Now we are giving a 3 day free trial of our services. contact us to start your trial."
     welcome: Welcome to Writool Smart Learning Solution.
     video: Watch our tutorial on using Writool Live
     upgrade: Show me how to upgrade to 2.0!
