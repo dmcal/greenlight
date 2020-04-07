@@ -36,7 +36,7 @@ en:
         enabled: Enabled
         info: Only allow authenticated users to join a room
         title: Require Authentication for Rooms
-        user-info: You must sign in to Greenlight to join this room
+        user-info: You must sign in to live.writool.com to join this room
       branding:
         change: Change Image
         info: Change the branding image that appears in the top left corner
@@ -83,7 +83,7 @@ en:
       shared_access:
         info: Setting to disabled will remove the button from the Room options dropdown, preventing users from sharing rooms
         title: Allow Users to Share Rooms
-      subtitle: Customize Greenlight
+      subtitle: Customize Writool
       title: Site Settings
     flash:
       approved: User has been successfully approved.
@@ -224,10 +224,10 @@ en:
       help: If you believe this is a mistake, please contact your system administrator.
   expired_reset_token: Password reset link has expired!
   features:
-    title: Features
-    rooms: Personalized Rooms
-    recordings: Recording Management
-    designs: Custom Designs
+    title: Video Confrencing Features
+    rooms: Unlimied Meeting Rooms
+    recordings: On-demand Recording Management
+    designs: Classroom Management
     authentication: User Authentication
   footer:
     powered_by: Powered by %{href} | DESIGNED BY OWNLYDIGITAL.COM | +91-89014-78600.
@@ -236,7 +236,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Writool
+  greenlight: Writool.com
   header:
     all_recordings: All Recordings
     dropdown:
@@ -277,7 +277,7 @@ en:
         signin_link: Sign In
         signup:
           info: A new user has signed up to use Writool.com.
-          more-info: To allow this user to access Greenlight you must approve their account in organization settings.
+          more-info: To allow this user to access Writtol. you must approve their account in organization settings.
           admins_link: Visit the Organization Page
           subject: New Writool.com User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
@@ -293,9 +293,9 @@ en:
         signup_info: To signup using your email, click the button below and follow the steps.
         signup_link: Sign Up
         signup:
-          info: A user that was invited has signed up to use Greenlight.
+          info: A user that was invited has signed up to use live.writool.com.
           admins_link: Visit the Organization Page
-          subject: New Greenlight User Sign Up
+          subject: New live.writool.com User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Invitation to join Writool.com
         username: Your username is %{email}.
